@@ -1,0 +1,15 @@
+ angka/number "di dalam js tdk ada  yang namanya bilangan  bulat yang ada hanyalah bilangan pecahan"
+
+ meskipun yang ditulis bilangan bulat yang diproses ialah bilangan pecahan
+
+tipe number dalam JS
+1. integer (akurat sampai 15 digit)
+2.float (12.3)
+3.eksponen ()
+
+5.angka spesial
+- 1/0 = infinity
+- -1/0 = -infinity
+- 0/0 = nan
+
+

@@ -1,0 +1,11 @@
+
+Ada 6 tipe data dalam javascrip
+nummer
+string
+boolean
+object
+function
+undefined
+
+
+
