@@ -1,6 +1,5 @@
 // operator logika
 
-console.log(10 % 2 == 0);
 console.log(10 < 10 && 4 > 1);
 console.log(10 > 10 || 3 < 5);
 
